@@ -1,0 +1,4 @@
+# Updated 1/6/24 12:13 AM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+127.0.0.1:58061|2023-03-29 16:22:34 +0000|(Unknown)|Forever|Banned by an operator.

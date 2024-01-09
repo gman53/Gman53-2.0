@@ -1,0 +1,3 @@
+entrypoint = "README.md"
+
+run = ["bash", "main.sh"]

@@ -1,0 +1,7 @@
+# Updated 1/6/24 12:13 AM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+shooba24|2023-09-20 17:57:09 +0000|(Unknown)|Forever|Banned by an operator.
+noob12345|2023-09-26 15:48:09 +0000|(Unknown)|Forever|Banned by an operator.
+noob123456|2023-09-26 15:48:22 +0000|(Unknown)|Forever|Banned by an operator.
+noob|2023-09-26 15:54:45 +0000|(Unknown)|Forever|Banned by an operator.

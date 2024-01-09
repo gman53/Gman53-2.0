@@ -1,0 +1,4 @@
+Core:
+  AutoSaveInterval: 180
+  BeforeSave: '&cSaving World Data. Expect lag for a short while.'
+  AfterSave: '&cSave Complete.'
